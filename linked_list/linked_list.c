@@ -48,7 +48,7 @@ void ll_display(node_t *head)
         tmp = tmp->next;
         if (tmp != NULL)
         {
-            printf(" -> ");
+            printf(" - ");
         }
     }
 
